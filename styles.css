@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box-small {
+    width: 50px;
+    height: 50px;
+    border: 4px solid lightblue;
+    margin-left: 24px;
+
+}
+
+.box-large {
+    width: 100px;
+    height: 100px;
+    border: 4px solid lightblue;
+   
+}
+
+.container {
+    border: 4px solid lightblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+}
+
+.box-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+/*  EXERCISE 2 EXERCISE 2 EXERCISE 2 EXERCISE 2 EXERCISE 2 EXERCISE 2 EXERCISE 2  */
+.container2 {
+    border: 4px solid lightblue;
+    padding: 10px;
+}
+
+.row{
+width: 100%;
+max-width: 600px;
+margin: 0 auto;
+}
+
+.title {
+    border: 4px solid lightblue;
+    width: 100%;
+    height: 24px;
+   margin-bottom: 24px;
+}
+
+.box2-small {
+    width: 30%;
+    height: 100px;
+    border: 4px solid lightblue;
+    margin-bottom: 24px;
+}
+
+.wrapper2 {
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
