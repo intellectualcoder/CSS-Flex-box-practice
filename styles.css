@@ -63,4 +63,114 @@ margin: 0 auto;
    flex-wrap: wrap;
    justify-content: space-between;
 }
+.container2 {
+    border: 4px solid lightblue;
+    padding: 10px;
+}
+
+.row{
+width: 100%;
+max-width: 600px;
+margin: 0 auto;
+}
+
+.title {
+    border: 4px solid lightblue;
+    width: 100%;
+    height: 24px;
+   margin-bottom: 24px;
+}
+
+.box2-small {
+    width: 30%;
+    height: 100px;
+    border: 4px solid lightblue;
+    margin-bottom: 24px;
+}
+
+.wrapper2 {
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+/*  EXERCISE 3 EXERCISE 3 EXERCISE 3 EXERCISE 3 EXERCISE 3 EXERCISE 3 EXERCISE 3  */
+
+.container3 {
+    border: 4px solid lightblue;
+    padding: 24px 24px 0px 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-large3 {
+    width: 50%;
+    border: 4px solid lightblue;
+    margin-bottom: 24px;
+}
+
+.box3 {
+    width: 100%;
+    height: 50px;
+    border: 4px solid lightblue;
+    margin-bottom: 24px;
+}
+
+.wrapper3 {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+
+/*  EXERCISE 3 EXERCISE 3 EXERCISE 3 EXERCISE 3 EXERCISE 3 EXERCISE 3 EXERCISE 3 */
+
+
+.container4 {
+    border: 4px solid lightblue;
+    padding: 80px 24px 80px 24px;
+   
+}
+
+.row4 { 
+    display: flex;
+    justify-content: space-between;
+width: 100%;
+max-width: 600px;
+margin: 0 auto -24px auto;
+}
+
+.wrapper4-1 {
+    width: 100%;
+    padding-right: 10px;
+}
+
+
+.title4 {
+    width: 100%;
+    height: 50px;
+    border: 4px solid lightblue;
+    margin-bottom: 10px;
+}
+
+.wrapper4-buttons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px
+}
+
+.button4 {
+    width: 30%;
+    height: 50px;
+    border: 4px solid lightblue;
+
+}
+
+.box4large {
+    width: 100%;
+    border: 4px solid lightblue;
+    margin-bottom: 10px;
+}
+
+
 
